@@ -11,7 +11,7 @@ android {
     compileSdk = 32
     defaultConfig {
         applicationId = "com.example.navbar.android"
-        minSdk = 21
+        minSdk = 26
         targetSdk = 32
         versionCode = 1
         versionName = "1.0"
